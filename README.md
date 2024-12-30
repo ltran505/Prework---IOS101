@@ -2,7 +2,7 @@
 
 Submitted by: **Lily Tran**
 
-**IOS101 Prework** is an app that changes background randomly when the Background Color is clicked. 
+**IOS101 Prework** is an app that changes background randomly when the Background Color button is clicked. 
 
 Time spent: **3** hours spent in total
 
@@ -27,9 +27,20 @@ Example App: Instagram
 Changing the background color of the messages screen
 Deleting old messages
 
-App:
+App: YouTube
+Has diffrent tabs for diffrent categories.
+Switchable location.
+
+App: Spotify
+Free background music.
+Various mixes.
+
+App: Gmail
+Separate primary, promotion, and social emails.
+Can insert saved signatures.
 
 Think of an app idea that you would like to build. It can be a new idea or an improvement on an existing app. Write a short paragraph describing the app and the features you would like to implement. You are not commiting to this idea, but it helps to start brain storming early on and get feedback from your peers and instructors.
+An app that I would like to build is 
 
 ## Notes
 
